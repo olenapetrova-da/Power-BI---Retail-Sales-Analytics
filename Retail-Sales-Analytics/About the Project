@@ -1,0 +1,8 @@
+As a Business and Data Analyst, I delivered a 3-page analytical dashboard to evaluate half-a-year sales and shipments. 
+Performing data exploration, I created the data model and data dictionary and defined analysis dimensions to get insights according to the business request. 
+While preparing for visualization, data quality check, transformation, and additional DAX calculations were performed. 
+The report allows to compare the sales share of regions and customer segments and to see the revenue and profit changes during the period respectively. 
+A deeper anomaly investigation is possible. 
+Shipments’ Analytics shows the reliability of the order-to-shipment process with respect to order priority. 
+Also, shipment modes are compared. Python script was used for one of the visuals. 
+The Web connector to the external API was used to get currency rates. 
